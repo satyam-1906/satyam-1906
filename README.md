@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1831744b-2f8c-4a82-9540-85ec3d64d136" width="100%" alt="Tech profile banner" />
+  <img width="2400" height="auto" alt="download (11)" src="https://github.com/user-attachments/assets/07e1e86c-5bca-4faf-a072-d35171f538f8" />
 </p>
 
 <h1 align="center">Hi, I’m Satyam 👋</h1>
