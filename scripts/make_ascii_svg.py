@@ -41,8 +41,13 @@ def build_svg(rows: list[str]) -> str:
 
 def main() -> int:
     if not SOURCE.exists():
-        print(f"Missing prepped source image: {SOURCE}")
-        return 1
+        svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {WIDTH * 7.3 + 30} {HEIGHT * 10.6 + 32}">
+  <rect width="100%" height="100%" fill="#07110c"/>
+  <text x="16" y="48" font-family="monospace" font-size="12" fill="#d8e6da">Missing source-prepped.png — add your portrait and rerun.</text>
+</svg>'''
+        OUTPUT.write_text(svg, encoding="utf-8")
+        print(f"ASCII portrait SVG written to {OUTPUT}")
+        return 0
 
     image = Image.open(SOURCE)
     rows = convert_to_ascii(image)
