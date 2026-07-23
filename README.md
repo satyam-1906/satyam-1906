@@ -28,7 +28,7 @@
       🛠️ <b>Tech Stack & Focus:</b> Python • OpenCV • FastAPI • Docker • C++ • JavaScript • Agentic Workflows
     </td>
     <td align="center" valign="middle" width="35%">
-      <img src="https://github.com/user-attachments/assets/352bf236-012a-4e87-aafc-23085a359991" width="220" alt="Satyam Portrait" />
+      <img src="https://github.com/user-attachments/assets/ba39d662-9684-4a9a-862d-f4c3230958c5" width="100%" alt="Space GIF" />
     </td>
   </tr>
 </table>
