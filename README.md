@@ -97,7 +97,12 @@ Designing services and architectures with performance, scalability, and maintain
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-1906&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=satyam-1906&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Commit-See%20activity-brightgreen?style=flat-square&logo=github" alt="Last commit badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-blue?style=flat-square" alt="Focus badge" />
 </p>
 
 ## 💡 My Engineering Mindset
