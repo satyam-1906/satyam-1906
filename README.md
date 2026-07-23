@@ -22,10 +22,10 @@
   <tr>
     <td valign="middle" width="65%">
       <br>
-      <b>AI Engineer & Systems Developer</b><br><br>
-      I focus on AI-integrated computer vision systems, agentic AI architecture, backend engineering, and system design. My work sits at the intersection of intelligence and infrastructure — where models meet real software, and where engineering discipline determines reliability.<br><br>
-      Currently, I am designing vision-driven AI systems that solve real problems, studying autonomous agentic execution flows, and building backend services with a strong systems mindset.<br><br>
-      🛠️ <b>Tech Stack & Focus:</b> Python • OpenCV • FastAPI • Docker • C++ • JavaScript • Agentic Workflows
+      <b>AI Engineer & Backend Systems Enthusiast</b><br><br>
+      I build AI-integrated computer vision systems, agentic AI architecture, and backend systems. Essentially, I write code that tries to make machines see, think, and make decisions—so you don't have to. Sometimes they actually listen. I spend half my time designing scalable architectures and the other half debugging race conditions that "should be mathematically impossible."<br><br>
+      Currently, I’m building vision systems that solve actual problems (instead of just looking cool in a slide deck), studying autonomous AI agents in the hopes that they don't replace me, and writing backend services that survive production without requiring a daily sacrifice to the DevOps gods.<br><br>
+      <b>Things I wrestle with:</b> Python • OpenCV • FastAPI • Docker • C++ • JavaScript • Agentic Workflows
     </td>
     <td align="center" valign="middle" width="35%">
       <img src="https://github.com/user-attachments/assets/352bf236-012a-4e87-aafc-23085a359991" width="220" alt="Satyam Portrait" />
