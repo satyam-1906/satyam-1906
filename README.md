@@ -89,20 +89,21 @@ Designing services and architectures with performance, scalability, and maintain
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam-1906&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://img.shields.io/badge/GitHub%20Profile-Active-181717?style=for-the-badge&logo=github" alt="GitHub profile active" />
+  <img src="https://img.shields.io/badge/Repositories-Always%20Growing-0A0A0A?style=for-the-badge" alt="Repositories badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-1906&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Top%20Focus-AI%20%2B%20Backend-4A90E2?style=for-the-badge" alt="Top focus badge" />
+  <img src="https://img.shields.io/badge/Engineering%20Style-System%20Design-FF6B6B?style=for-the-badge" alt="Engineering style badge" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=satyam-1906&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-00C853?style=for-the-badge" alt="Build status badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Commit-See%20activity-brightgreen?style=flat-square&logo=github" alt="Last commit badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-blue?style=flat-square" alt="Focus badge" />
+  <strong>Core themes:</strong> AI • Computer Vision • Agentic AI • Backend Architecture
 </p>
 
 ## 💡 My Engineering Mindset
