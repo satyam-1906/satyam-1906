@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/07e1e86c-5bca-4faf-a072-d35171f538f8" width="100%" alt="Banner"/>
+  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/0845b103-246e-4f00-b0cd-21ead2d672c7" />
 </div>
 
 <br>
@@ -28,11 +28,11 @@
       <b>Things I wrestle with:</b> Python • OpenCV • FastAPI • Docker • C++ • JavaScript • Agentic Workflows
     </td>
     <td align="center" valign="middle" width="35%">
-      <img src="https://github.com/user-attachments/assets/352bf236-012a-4e87-aafc-23085a359991" width="220" alt="Satyam Portrait" />
+      <img src="https://github.com/user-attachments/assets/ba39d662-9684-4a9a-862d-f4c3230958c5" width="100%" alt="Space GIF" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ba39d662-9684-4a9a-862d-f4c3230958c5" width="100%" alt="Space GIF" />
+  <img width="100%" height="30" alt="Footer" src="https://github.com/user-attachments/assets/f4e3a543-05f6-43a6-a1d5-ae4a2007c90d" />
 </div>
