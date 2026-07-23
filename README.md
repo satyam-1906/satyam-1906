@@ -11,7 +11,7 @@
       &nbsp;
       <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       &nbsp;
-      <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="mailto:scientificsatyam1906@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
     </td>
   </tr>
   <tr>
@@ -28,7 +28,7 @@
       <b>Things I wrestle with:</b> Python • OpenCV • FastAPI • Docker • C++ • JavaScript • Agentic Workflows
     </td>
     <td align="center" valign="middle" width="35%">
-      <img src="https://github.com/user-attachments/assets/ba39d662-9684-4a9a-862d-f4c3230958c5" height="100%" alt="Space GIF" />
+      <img height="100%" src="https://github.com/user-attachments/assets/ba39d662-9684-4a9a-862d-f4c3230958c5" alt="Space GIF" />
     </td>
   </tr>
 </table>
