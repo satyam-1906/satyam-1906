@@ -27,8 +27,8 @@
       Currently, I’m building vision systems that solve actual problems (instead of just looking cool in a slide deck), studying autonomous AI agents in the hopes that they don't replace me, and writing backend services that survive production without requiring a daily sacrifice to the DevOps gods.<br><br>
       <b>Things I wrestle with:</b> Python • OpenCV • FastAPI • Docker • C++ • JavaScript • Agentic Workflows
     </td>
-    <td align="center" valign="middle" width="35%">
-      <img height="100%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/ba39d662-9684-4a9a-862d-f4c3230958c5" alt="Space GIF" />
+    <td align="center" valign="middle" width="35%" style="padding: 0;">
+      <img src="https://github.com/user-attachments/assets/ba39d662-9684-4a9a-862d-f4c3230958c5" style="width: 100%; height: 100%; object-fit: cover; display: block;" alt="Space GIF" />
     </td>
   </tr>
 </table>
