@@ -1,3 +1,4 @@
+<img width="438" height="570" alt="download__12_-removebg-preview" src="https://github.com/user-attachments/assets/352bf236-012a-4e87-aafc-23085a359991" />
 <!-- Monochrome GitHub Profile -->
 <p align="center">
   <img width="2400" height="auto" alt="download (11)" src="https://github.com/user-attachments/assets/07e1e86c-5bca-4faf-a072-d35171f538f8" />
