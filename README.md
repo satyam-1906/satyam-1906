@@ -34,5 +34,5 @@
 </table>
 
 <div align="center">
-  <img width="100%" height="30" alt="Footer" src="https://github.com/user-attachments/assets/f4e3a543-05f6-43a6-a1d5-ae4a2007c90d" />
+  <img width="100%" alt="Footer" src="https://github.com/user-attachments/assets/a3134d03-6c6e-4f18-b224-135afa5f060a" />
 </div>
