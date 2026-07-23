@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/55c78ea7-ea6d-4f1e-a0b0-c0d36a887974" />
+  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/0845b103-246e-4f00-b0cd-21ead2d672c7" />
 </div>
 
 <br>
@@ -34,5 +34,5 @@
 </table>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ba39d662-9684-4a9a-862d-f4c3230958c5" width="100%" alt="Space GIF" />
+  <img width="100%" height="30" alt="Footer" src="https://github.com/user-attachments/assets/f4e3a543-05f6-43a6-a1d5-ae4a2007c90d" />
 </div>
